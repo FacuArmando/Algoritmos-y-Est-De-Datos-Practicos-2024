@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ej4Pract4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arrayNum
+comment2.target=void\ mostrarArrayList(java.util.ArrayList)
+comment3.params=listaNumEnt
+comment3.target=void\ arrayListMenAMay(java.util.ArrayList)
+comment4.params=listaNumEnt
+comment4.target=void\ arrayListMayAMen(java.util.ArrayList)
+numComments=5

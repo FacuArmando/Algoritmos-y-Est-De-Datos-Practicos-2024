@@ -1,0 +1,15 @@
+Para Ejecutar Pruebas en el Ejercicio 5 debo hacer lo siguiente en VS Code:
+  1. Estando en ~/Documentos/Universidad/2024/2. Materias 2do Cuatrimestre (2024)/Algoritmos y Estructuras de Datos I (3378)/Practicos/4. Practico 4/Ejercicios En Java/Ejercicio 5$, debemos escribir:
+    - javac Ejercicio5/proyecto/Lista.java (Para crear los archivos .class correspondientes).
+    - javac Ejercicio5/proyecto/ListaEnlazada.java (Para crear los archivos .class correspondientes).
+    - javac Ejercicio5/proyecto/EjemploUsoListaEnlazada.java (Para crear los archivos .class correspondientes).
+    - javac Ejercicio5/proyecto/ListaArreglo.java (Para crear los archivos .class correspondientes).
+    - javac Ejercicio5/proyecto/EjemploUsoListaArreglo.java (Para crear los archivos .class correspondientes).
+  
+  2. Una vez ejecutado lo anterior debemos ejecutar para probar nuestro archivo en java lo siguiente: 
+      Estando en ~/Documentos/Universidad/2024/2. Materias 2do Cuatrimestre (2024)/Algoritmos y Estructuras de Datos I (3378)/Practicos/4. Practico 4/Ejercicios En Java/Ejercicio 5$, debemos escribir:
+       - java Ejercicio5.proyecto.Lista (Para ejecutar el archivo .class de Lista).
+       - java Ejercicio5.proyecto.ListaEnlazada (Para ejecutar el archivo .class de ListaEnlazada).
+       - java Ejercicio5.proyecto.EjemploUsoListaEnlazada (Para ejecutar el archivo .class de EjemploUsoListaEnlazada).
+       - java Ejercicio5.proyecto.ListaArreglo (Para ejecutar el archivo .class de ListaArreglo).
+       - java Ejercicio5.proyecto.EjemploUsoListaArreglo (Para ejecutar el archivo .class de EjemploUsoListaArreglo).
